@@ -1,8 +1,8 @@
 ---
-title: 'Daniel Arsham'
-summary: 'Hollow Figure, 2018'
-image: '/img/hollow.png'
-displayOrder: 1
+title: 'KAWS'
+summary: 'KAWS: HE EATS ALONE'
+image: '/img/kawshea.jpg'
+displayOrder: 2
 featured: true
 layout: 'layouts/work.html'
 ---

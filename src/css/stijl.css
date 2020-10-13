@@ -3,10 +3,18 @@ body {
 	margin: 5rem auto;
 	font-size: 2rem;
 	font-family: "helvetica neue",helvetica;
+	background: #0D0D0D;
+	color: white;
+  background:
+    linear-gradient(45deg, transparent 74px, transparent 75px, #161616 75px, #161616 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #161616 76px, #161616 77px, transparent 78px, transparent 109px),
+  #0D0D0D;
+  background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
 }
 
 header h1 a {
-	color: black;
+	color: #979690;
 	text-decoration: none;
 	font-size: 3rem;
 	font-weight: 600;
@@ -14,21 +22,29 @@ header h1 a {
 
 header nav ul {
 	display: flex;
-	flex-direction: column;
-	margin-top: 2rem;
+	flex-direction: row;
 }
 
 header nav ul li {
-	margin-top: 1rem;
+	margin-top: 4rem;
+	margin-right: 1.5rem;
 }
 
 header nav ul li a {
-	color: firebrick;
+	color: #979690;
+	transition: all 0.5s;
+	text-decoration: none;
 }
 
 header nav ul li a.selected {
 	color: white;
-	background-color: firebrick;
+	background-color: #979690;
+	padding: 0.7rem;
+	border-radius: 1rem;
+}
+
+header nav ul li:hover a{
+	color: white;
 }
 
 header {
@@ -47,12 +63,12 @@ main p {
 }
 
 img {
-	max-width: 100%;
+	max-width: 50%;
 }
 
 main img {
-	display: block;
 	margin: 0 auto 3rem auto;
+	margin-left: 27%;
 }
 
 main h3 {
@@ -73,6 +89,91 @@ main {
 	margin-bottom: 5rem;
 }
 
+.experiment1{
+      background-color: orange;
+      font-family: helvetica;
+      width: 50vw;
+      height: 50vw;
+      border-radius: 50%;
+      font-size: 8rem;
+      overflow: hidden;
+      padding-left: 2rem;
+      box-sizing: border-box;
+      font-weight: 900;
+			margin-left: 10%;
+}
+
+.experiment2{
+      background-color: #4B4B48;
+      font-family: helvetica;
+      width: 39vw;
+      height: 39vw;
+      border-radius: 50%;
+      font-size: 9rem;
+      overflow: hidden;
+      padding-left: 6rem;
+      box-sizing: border-box;
+      font-weight: 900;
+			margin-left: 38%;
+			margin-top: -2.4rem;
+}
+
+.experiment3{
+      background-color: #979690;
+      font-family: helvetica;
+      width: 45vw;
+      height: 45vw;
+      border-radius: 50%;
+      font-size: 8rem;
+      overflow: hidden;
+      padding-left: 0rem;
+			padding-top: 4rem;
+      box-sizing: border-box;
+      font-weight: 900;
+			margin-left: 4%;
+			line-height: 6rem;
+			margin-top: -4.4rem;
+}
+
+@media (min-width: 600px) {
+
+	.experiment1{
+	      width: 40vw;
+	      height: 40vw;
+	      border-radius: 50%;
+	      font-size: 7rem;
+	      overflow: hidden;
+	      padding-left: 2rem;
+				margin-left: 10%;
+
+	}
+
+	.experiment2{
+	      width: 29vw;
+	      height: 29vw;
+	      border-radius: 50%;
+	      font-size: 7rem;
+	      overflow: hidden;
+	      padding-left: 6rem;
+				margin-left: 38%;
+				margin-top: -6.4rem;
+	}
+
+	.experiment3{
+	      width: 35vw;
+	      height: 35vw;
+	      border-radius: 50%;
+	      font-size: 7rem;
+	      overflow: hidden;
+	      padding-left: 0rem;
+				padding-top: 4rem;
+				margin-left: 10%;
+				line-height: 6rem;
+				margin-top: -6.4rem;
+	}
+}
+
+
 @media (min-width: 800px) {
 	header nav ul {
 		display: flex;
@@ -91,4 +192,39 @@ main {
 		top: 5.5rem;
 		right: 10vw;
 	}
+
+
+		.experiment1{
+		      width: 40vw;
+		      height: 40vw;
+		      border-radius: 50%;
+		      font-size: 20rem;
+		      overflow: hidden;
+		      padding-left: 2rem;
+					margin-left: 10%;
+		}
+
+		.experiment2{
+		      width: 29vw;
+		      height: 29vw;
+		      border-radius: 50%;
+		      font-size: 20rem;
+		      overflow: hidden;
+		      padding-left: 6rem;
+					margin-left: 45%;
+					margin-top:-10rem;
+		}
+
+		.experiment3{
+		      width: 35vw;
+		      height: 35vw;
+		      border-radius: 50%;
+		      font-size: 17rem;
+		      overflow: hidden;
+		      padding-left: 0rem;
+					padding-top: 4rem;
+					margin-left: 10%;
+					line-height: 20rem;
+					margin-top: -6.4rem;
+		}
 }
