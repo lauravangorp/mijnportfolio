@@ -13,7 +13,9 @@ Typography for Screen introduces various creative projects of typography for the
 Format: full colour, Hardcover <br>
 Language: English
 
-<img class="blogpic1" src="/img/type1.jpg">
-<img class="blogpic2" src="/img/type2.jpg">
-<img class="blogpic1" src="/img/type3.jpg">
-<img class="blogpic2" src="/img/type4.jpg">
+<div class="grid">
+  <img  src="/img/type4.jpg">
+  <img  src="/img/type2.jpg">
+  <img  src="/img/type3.jpg">
+  <img  src="/img/type1.jpg">
+</div>
