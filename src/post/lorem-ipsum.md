@@ -1,16 +1,81 @@
 ---
-title: Lorem ipsum dolor sit amet
-description: This is a post on My Blog about agile frameworks.
-date: 2020-09-10
+title: 10 things to know about KAWS
+description: This is a post on My Blog about KAWS.
+date: 2020-10-18
 tags:
-  - tag1
+  - KAWS
   - tag2
 categories: categorie1
 layout: 'layouts/post.html'
 ---
+![Een afbeelding](/img/kawsportret.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat viverra feugiat. Nulla mattis urna ac laoreet convallis. Mauris tempor lacinia condimentum. Fusce volutpat sollicitudin nunc, eu porttitor nulla varius non. Nam in sagittis purus, id volutpat turpis. Fusce nibh nulla, finibus sed enim vel, ullamcorper consectetur lectus. Donec sit amet augue augue. Proin eros lectus, pulvinar sit amet ligula ut, malesuada mattis sem. Mauris egestas tellus vitae quam pretium dictum hendrerit nec neque. Nullam id metus ultrices, tincidunt nisi in, congue arcu. Aliquam eu commodo massa. Fusce placerat orci vitae sollicitudin aliquet.
+The artist is taking the art world by storm — his giant inflatables have graced a lake in Seoul and the Macy’s Thanksgiving Day Parade, his characters feature on T-shirts, and his paintings sell for eight-figure sums at auction
 
-Nam nec efficitur nisl. Curabitur vitae tincidunt urna, sit amet placerat ipsum. Sed vitae augue ac ligula scelerisque bibendum non non leo. Nulla in fringilla nunc. Morbi elit ligula, scelerisque non ipsum eu, interdum pulvinar nulla. Nulla vitae imperdiet libero, ut ullamcorper odio. Quisque interdum dictum neque, vitae blandit dui blandit vel. Donec eu velit et ligula sodales consequat ut eget tellus. Cras elementum sed enim non semper. Fusce sodales sollicitudin odio, vitae hendrerit sem posuere nec. Nam a maximus diam, ac ultrices sem.
 
-Integer massa diam, pellentesque vitae luctus in, pulvinar quis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed eu arcu in nisl efficitur sodales non et nisi. Nam eu nulla nibh. Aliquam eleifend quis mi nec ultrices. Vestibulum non imperdiet lacus. Fusce eget sagittis neque, eu imperdiet orci. Mauris dignissim ultricies neque, a posuere diam placerat ac. Mauris non sagittis velit. Nam interdum lectus ipsum, sit amet pulvinar metus facilisis at.
+<h3> 1. KAWS is not his real name </h3>
+
+Brian Donnelly (b. 1974) studied illustration at the School of Visual Arts in New York. Before he achieved success as an artist he worked as a background painter on animated series such as Disney’s 101 Dalmations, and cult shows Daria  and Doug.
+
+<img class="blogpic1" src="/img/blogkaws1.jpg">
+
+<h3> 2. He started out as a graffiti artist </h3>
+
+From an early age Donnelly was known for marking buildings in New Jersey and Manhattan with ‘KAWS’, a tag he chose because he liked the way the letters looked together. He soon moved on from this simple tag, however, and developed a unique style that involved adding cartoon-like figures to bus-shelter advertisements.
+
+Later, he would replicate these early works of ‘subvertising’ in a series of screenprint lithographs. These included a mock Calvin Klein ad, featuring supermodel Christy Turlington being embraced by a green figure.
+
+His origins in graffiti brought his work to a diverse audience, many of whom had nothing to do with the art world. Unlike most artists, KAWS did not start out with a gallery; he was fully aware of the benefits of showing his work in the street and mass-producing pieces in order to build a following. This following became so big that it attracted the attention of collectors and critics.
+
+Speaking of his early days as a graffiti artist, Donnelly said, ‘When I was doing graffiti, my whole thought was, “I just want to exist.” I want to exist with this visual language in the world… It meant nothing to me to make paintings if I wasn’t reaching people.’
+
+<h3> 3. KAWS made his name with toys </h3>
+
+In 1999 KAWS visited Japan after being approached by Bounty Hunter, the cult toy and streetwear brand. He would go on to create his first toy, ‘COMPANION’. Produced in an edition of 500, the toys sold out almost immediately, and COMPANION became a recurring figure in KAWS’ work.
+
+<img class="blogpic2" src="/img/blogkaws2.jpg">
+
+<h3> 4. He’s having a moment </h3>
+
+In March 2019, a 121-foot-long inflatable version of KAWS’ COMPANION  was installed in Hong Kong’s Victoria Harbour during Art Basel. Anchored by a 40-ton weight, versions of the piece — dubbed KAWS: HOLIDAY — were previously on view in Seoul and Taipei, and mark the latest step in the artist’s rise to fame over recent years.
+
+Although KAWS was successful in the 2000s, the 2019 Artnet Intelligence Report reports that in 2017 his average sale price almost doubled, from $42,272 to $82,063. In November 2018, five KAWS pieces sold for more than $1 million, and across the year his work realised over $33.8 million at auction.
+
+<img class="blogpic1" src="/img/blogkaws3.jpg">
+
+<h3>5. He’s big on Instagram</h3>
+
+KAWS’ success on social media has been a big factor in his surge to the forefront of the contemporary art world. At the time of writing, more than 900,000 posts bearing the hashtag #kaws had been posted on Instagram, compared to 300,000 for Jeff Koons and 192,000 for Damien Hirst. Specialists have speculated that this could partly be down to the fact that his bright, Pop-art style reproduces faithfully online, but this popularity can also be attributed to KAWS’ origins as a street artist.
+
+<h3>6. KAWS and the comparisons to Basquiat and Haring</h3>
+
+Described by curator and art historian Michael Auping as ‘[Clement] Greenberg’s worst nightmare’, KAWS is seen as the enfant terrible of the New York art world. Many have compared him to Jean-Michel Basquiat and Keith Haring, whose own inimitable styles started out on the street, as well as Andy Warhol and Jeff Koons, who both had an instinctive understanding of the possibilities of art in the age of mechanical reproduction.
+
+KAWS has name-checked his influences, which vary from Claes Oldenburg and Tom Wesselman to Takashi Murakami, the latter in terms of what the artist describes as ‘acceptance and crossover projects’.
+
+<img class="blogpic2" src="/img/blogkaws4.jpg">
+
+<h3>7. He’s known for appropriating beloved characters</h3>
+
+‘No cartoon is safe from being consumed and turned into KAWS,’ says Christie’s associate specialist Noah Davis. The artist is known for subverting iconic cartoon heroes and in doing so he demonstrates his interest in the characters’ universal cultural value, reinforcing the idea that he makes no distinction between concepts of ‘high’ and ‘low’ art.
+
+<h3>8. He once designed a float for the Macy’s Thanksgiving Day Parade</h3>
+
+In 2012 a KAWS COMPANION  balloon was seen floating down the streets of Manhattan as part of the Macy’s Thanksgiving Day Parade, its XX eyes covered by large gloved hands. Its appearance alongside characters as Mickey Mouse and Sonic the Hedgehog provided further proof of KAWS’ ability to transform art into a spectacle for mass consumption.
+
+<h3>9. KAWS and collaboration</h3>
+
+After successfully launching his own fashion label, Original Fake, in the early 2000s, KAWS began working with a number of cult streetwear labels, including Bathing Ape and Supreme. In 2008 he designed the cover for Kanye West’s much feted album 808s & Heartbreak, and more recently he has developed his own pair of Nike Air Jordans.
+
+In 2019, Paris Fashion Week saw Dior designer Kim Jones debut his Spring/Summer 2019 collection with a KAWS interpretation of the fashion house’s iconic bee design, set against the backdrop of a 33-ft tall pink flower sculpture of KAWS’s ‘BFF’ character, reproduced as an editioned toy in a mini Dior suit.
+
+KAWS has also collaborated with the Campana brothers on a range of furniture covered in plush toys, which debuted at Art Basel Miami and was immediately snapped up by Travis Scott and Kylie Jenner.
+
+<img class="blogpic1" src="/img/blogkaws5.jpg">
+
+<h3>10. His work sells for as little as $15 and as much as $2.4 million</h3>
+
+KAWS has teamed up with NIGO, originally of Bathing Ape fame and now creative director of Uniqlo’s LifeWear UT line. His current collection with the Japanese brand sees him redrawing beloved Sesame Street characters on a collection of T-shirts, sweatshirts, hoodies and toys. All priced under $50, the pieces feature the tagline, ‘You’re never too old for the street’.
+In contrast, last November’s Post-War and Contemporary Art Evening Sale  at Christie’s in New York saw KAWS’ 2012 painting, CHUM (KCB7), sell for $2,412,500, almost five times its high estimate.
+
+credit : https://www.christies.com/features/KAWS-artist-guide-9756-1.aspx
