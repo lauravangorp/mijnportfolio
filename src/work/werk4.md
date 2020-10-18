@@ -8,10 +8,10 @@ layout: 'layouts/work.html'
 ---
 What he has to say about his work :
 
-"Image transition experiment using my laters renders in C4D. I also wanted to
+<br> "Image transition experiment using my laters renders in C4D. I also wanted to
 try out a fake 3D depth effect."
 
-<a href="https://codepen.io/craftedbygc/live/aXGKrZ"> Have a look </a>
+<br><a href="https://codepen.io/craftedbygc/live/aXGKrZ"> Have a look </a><br>
 
 <video width="400" height="320" controls>
   <source src="/img/nathan.mp4" type="video/mp4">

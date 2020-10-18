@@ -1,11 +1,12 @@
 body {
-	width: 80vw;
+	width: 85vw;
 	margin: 5rem auto;
 	font-size: 1.7rem;
-	font-family: "helvetica neue",helvetica;
 	background: white;
 	color: black;
+	font-family: "helvetica neue",helvetica;
 	transition: 1s all;
+	line-height: 3rem;
   /* background:
     linear-gradient(45deg, transparent 74px, transparent 75px, #161616 75px, #161616 76px, transparent 77px, transparent 109px),
     linear-gradient(-45deg, transparent 75px, transparent 76px, #161616 76px, #161616 77px, transparent 78px, transparent 109px),
@@ -13,14 +14,22 @@ body {
   background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
   background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;*/
 }
-
+b{
+	font-weight: 500;
+}
 header h1 a {
 	color: #979690;
 	text-decoration: none;
-	font-size: 3rem;
+	font-size: 4.5rem;
 	font-weight: 600;
-	font-family: "optima",sans-serif;
+	font-family: amador, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-transform: lowercase;
 }
+header {
+	border-bottom: 1px solid black;
+	padding-bottom: 3rem;}
 
 header nav ul {
 	display: flex;
@@ -38,6 +47,7 @@ header nav ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 1.3rem;
+	font-family: "helvetica neue",helvetica;
 }
 
 header nav ul li a.selected {
@@ -56,18 +66,33 @@ header {
 }
 
 main h2 {
-	font-size: 2.25rem;
+	font-size: 4.3rem;
 	font-weight: 600;
 	margin-bottom: 3rem;
+	font-weight: 500;
+	margin-bottom: 3rem;
+	font-weight: 500;
+	margin-bottom: 3rem;
+	font-family: freight-big-pro, serif;
+	font-style: normal;
+	text-transform: uppercase;
+	}
+}
 }
 
 main p {
 	line-height: 3rem;
 	margin-bottom: 3rem;
+	max-width: 80%;
+	margin-left: 10%;
 }
 
 img {
 	max-width: 90%;
+}
+
+.blog img{
+		max-width: 90%;
 }
 
 main img {
@@ -81,17 +106,33 @@ main img {
 	margin-left: 6%;
 	box-shadow: none;
 	transition: 1s all;
+	filter: grayscale(1);
 }
 .works img:hover{
 	transform: scale(0.95);
-	-webkit-filter: grayscale(0);
 	filter: grayscale(0);
 }
 
 main h3 {
-	font-size: 2.25rem;
-	font-weight: 600;
+	font-size: 3.5rem;
+	font-weight: 500;
 	margin-bottom: 3rem;
+	font-family: freight-big-pro, serif;
+	font-style: normal;
+	text-transform: uppercase;
+	margin-top: 2rem;
+}
+
+main h4 {
+	font-size: 4rem;
+	font-weight: 600;
+	margin-bottom: 4rem;
+	margin-top: 2rem;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: minion-3-display, serif;
+	font-weight: 500;
+	font-style: normal;
 }
 
 main ul.blog li a {
@@ -106,6 +147,15 @@ main {
 	margin-bottom: 5rem;
 }
 
+.footerlogo{
+	font-size: 2rem;
+	font-weight: 600;
+	font-family: amador, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-transform: lowercase;
+}
+
 .experiment1{
       background-color: orange;
       font-family: helvetica;
@@ -118,6 +168,8 @@ main {
       box-sizing: border-box;
       font-weight: 900;
 			margin-left: 10%;
+			color: white;
+				line-height: 7rem;
 }
 
 .experiment2{
@@ -133,6 +185,8 @@ main {
       font-weight: 900;
 			margin-left: 38%;
 			margin-top: -2.4rem;
+			color: white;
+			line-height: 7rem;
 }
 
 .experiment3{
@@ -150,10 +204,30 @@ main {
 			margin-left: 4%;
 			line-height: 6rem;
 			margin-top: -4.4rem;
+			color: white;
+			line-height: 7rem;
 }
 
 .footertekst{
 	font-size: 1.3rem;
+}
+
+.naam{
+	color: #979690;
+	text-decoration: none;
+	font-size: 6rem;
+	font-weight: 600;
+	font-family: amador, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-transform: lowercase;
+	margin-left: 15%;
+	transition: 1s all;
+	line-height: 20rem;;
+}
+
+.naam:hover{
+	color: orange;
 }
 
 /*form*/
@@ -221,6 +295,7 @@ textarea:hover {
 @media (min-width: 600px) {
 	.works{
 		column-count: 2;
+		gap: 40px;
 	}
 
 	.experiment1{
@@ -231,6 +306,7 @@ textarea:hover {
 	      overflow: hidden;
 	      padding-left: 2rem;
 				margin-left: 10%;
+				line-height: 17rem;
 
 	}
 
@@ -243,6 +319,7 @@ textarea:hover {
 	      padding-left: 6rem;
 				margin-left: 38%;
 				margin-top: -6.4rem;
+				line-height: 20rem;
 	}
 
 	.experiment3{
@@ -274,6 +351,9 @@ textarea:hover {
 
 
 @media (min-width: 800px) {
+	.foto{
+		max-width: 70%;
+	}
 	header nav ul {
 		display: flex;
 		flex-direction: row;
@@ -294,7 +374,7 @@ textarea:hover {
 
 	.works{
 		column-count: 3;
-		gap: 40px;
+		gap: 60px;
 	}
 	.blogpic1{
 		max-width: 45%;
@@ -340,10 +420,13 @@ textarea:hover {
 					margin-top: -6.4rem;
 		}
 
-
 			#form {
 			  position: relative;
 			  width: 50rem;
-			  margin-bottom: 24rem;
+			  margin-bottom: 19rem;
 				margin-top: 10rem;}
+
+		.naam{
+			margin-left: 35%;
+		}
 }
