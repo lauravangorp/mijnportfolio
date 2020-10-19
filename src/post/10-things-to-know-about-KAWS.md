@@ -4,8 +4,8 @@ description: This is a post on My Blog about KAWS.
 image: '/img/kawsportret.png'
 date: 2020-10-18
 tags:
-  - KAWS
-  - tag2
+  - 'KAWS'
+  - 'tag2'
 categories: categorie1
 layout: 'layouts/post.html'
 ---
